@@ -4,6 +4,7 @@ Implementar una solución para que los clientes firmen digitalmente la Política
 
 ## Equipo
 - Teo
+- Simon
 
 ## Flujo de trabajo
 - Repositorio en GitHub
