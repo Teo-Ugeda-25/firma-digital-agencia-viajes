@@ -17,5 +17,7 @@ Cumple normativa europea eIDAS; firma biométrica con trazabilidad
 # Exportación de PDFs
 Sí, exporta PDFs firmados
 
-# Ventajas
+# Ventajas y Inconvenientes
+Facil de usar, gratuita, valida legalmente 
+Limitada en funciones avanzadas; interfaz algo básica
 
