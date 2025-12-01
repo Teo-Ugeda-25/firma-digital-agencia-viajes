@@ -1,40 +1,40 @@
 #Comienzo de la investigación
 
-### SIGNply
+# <h1>SIGNply<h1>
 
-# Funcionalidades 
+## Funcionalidades 
 Firmar documentos PDF con stylus o dedo; gestión de contratos, autorizaciones, consentimientos
 
-# Precio
+## Precio
 Gratuita (hasta 100 documentos); versión Pro con más funciones
 
-# Compatibilidad	
+## Compatibilidad	
 Android
 
-# Seguridad
+## Seguridad
 Cumple normativa europea eIDAS; firma biométrica con trazabilidad
 
-# Exportación de PDFs
+## Exportación de PDFs
 Sí, exporta PDFs firmados
 
-# Ventajas y Inconvenientes
+## Ventajas y Inconvenientes
 ✅ Facil de usar, gratuita, valida legalmente 
 ❌ Limitada en funciones avanzadas; interfaz algo básica
 
-### DocuSign
+# DocuSign
 
-# Funcionalidades
+## Funcionalidades
 Firma de documentos en remoto y presencial, gestión de documentos, etc.
 
-# Precio
+## Precio
 Desde 23€ al mes
 
-# Compatibilidad
+## Compatibilidad
 Android e iOS
 
-# Seguridad
+## Seguridad
 Cumple con la normativa eIDAS y sus firmas son válidas a nivel legal
 
-# Ventajas y desventajas
+## Ventajas y desventajas
 ✅ Facilidad de uso, accesibilidad, infraestructura
 ❌ Coste, necesidad de internet
