@@ -18,6 +18,23 @@ Cumple normativa europea eIDAS; firma biométrica con trazabilidad
 Sí, exporta PDFs firmados
 
 # Ventajas y Inconvenientes
-Facil de usar, gratuita, valida legalmente 
-Limitada en funciones avanzadas; interfaz algo básica
+✅ Facil de usar, gratuita, valida legalmente 
+❌ Limitada en funciones avanzadas; interfaz algo básica
 
+### DocuSign
+
+# Funcionalidades
+Firma de documentos en remoto y presencial, gestión de documentos, etc.
+
+# Precio
+Desde 23€ al mes
+
+# Compatibilidad
+Android e iOS
+
+# Seguridad
+Cumple con la normativa eIDAS y sus firmas son válidas a nivel legal
+
+# Ventajas y desventajas
+✅ Facilidad de uso, accesibilidad, infraestructura
+❌ Coste, necesidad de internet
